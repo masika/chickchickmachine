@@ -1,2 +1,2 @@
 # chickchickmachine
-embroidery on browser
+make embroidery data(.dst) on browser
