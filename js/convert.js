@@ -251,7 +251,8 @@ function saveFile() {
     embCode.unshift(0x00, 0x00, 0x83)
 
     //END_CODE
-    embCode.push(0x00, 0x00, 0xF)
+    embCode.push(0x00, 0x00, 0xF3)
+
 
 
     var u8_embCode = new Uint8Array(embCode)
